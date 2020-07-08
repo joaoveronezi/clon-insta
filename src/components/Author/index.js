@@ -1,1 +1,1 @@
-export {default} from './Author.js'; 
+export {default} from './Author.js';
