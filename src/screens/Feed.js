@@ -11,7 +11,7 @@ class Feed extends Component {
         id: Math.random(),
         nickname: 'Rafael Camarada',
         email: 'rafaelcabuloso@gmail.com',
-        image: require('../../../assets/imgs/fence.jpg'),
+        image: require('../../assets/imgs/fence.jpg'),
         comments: [
           {
             nickname: 'John Shelby',
@@ -31,7 +31,7 @@ class Feed extends Component {
         id: Math.random(),
         nickname: 'Renata Church',
         email: 'renatinha123@gmail.com',
-        image: require('../../../assets/imgs/bw.jpg'),
+        image: require('../../assets/imgs/bw.jpg'),
         comments: [
           {
             nickname: 'Jeff',
