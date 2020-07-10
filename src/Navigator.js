@@ -14,7 +14,8 @@ const Navigator = () => {
       <Tab.Navigator
         initialRouteName="Feed"
         tabBarOptions={{
-          showLabel: false,
+          showLabel: true,
+          activeTintColor: 'black',
         }}>
         <Tab.Screen
           name="Feed"
